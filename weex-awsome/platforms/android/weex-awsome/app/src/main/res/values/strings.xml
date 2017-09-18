@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">weex-awsome</string>
+    <string name="weex_main_url_debug">http://10.5.6.7:8080/dist/native/index.js</string>
+</resources>
